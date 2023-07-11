@@ -31,4 +31,5 @@ I representing the board as a list of lists, each grid cell holding an assigned 
 |723|481|569|
 |861|957|423|
 +---+---+---+
+  
 0.002999544143676758 seconds
